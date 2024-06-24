@@ -1,0 +1,25 @@
+/* For screens smaller than 576px (e.g., phones) */
+@media (max-width: 575.98px) {
+    /* Your CSS rules for small screens here */
+  }
+  
+  /* For screens between 576px and 767.98px (e.g., small tablets) */
+  @media (min-width: 576px) and (max-width: 767.98px) {
+    /* Your CSS rules for small tablets here */
+  }
+  
+  /* For screens between 768px and 991.98px (e.g., tablets) */
+  @media (min-width: 768px) and (max-width: 991.98px) {
+    /* Your CSS rules for tablets here */
+  }
+  
+  /* For screens between 992px and 1199.98px (e.g., laptops, desktops) */
+  @media (min-width: 992px) and (max-width: 1199.98px) {
+    /* Your CSS rules for laptops and desktops here */
+  }
+  
+  /* For screens larger than 1200px (e.g., large desktops) */
+  @media (min-width: 1200px) {
+    /* Your CSS rules for large desktops here */
+  }
+  
